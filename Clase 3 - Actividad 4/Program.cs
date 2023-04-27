@@ -4,6 +4,9 @@
     {
         static void Main(string[] args)
         {
+            /*
+            4)	Escribir un programa que pida el ingreso de un número entero positivo e informe si el número es primo o no.
+            */
             bool continuar = true;
             while (continuar) 
             { 
